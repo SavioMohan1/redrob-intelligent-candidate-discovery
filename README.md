@@ -41,6 +41,6 @@ dependencies.
 ## Sandbox Demo
 
 Accepted demo link:
-https://colab.research.google.com/github/SavioMohan1/redrob-intelligent-candidate-discovery/blob/main/demo/redrob_ranker_demo_colab.ipynb
+https://colab.research.google.com/github/SavioMohan1/redrob-intelligent-candidate-discovery/blob/main/demo/demo.ipynb
 
 The Colab notebook clones this repository, runs the ranker on `demo/sample_candidates_100.jsonl`, validates the generated CSV, previews the top rows, and allows downloading the demo CSV.
