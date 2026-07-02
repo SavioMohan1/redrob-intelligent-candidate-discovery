@@ -168,7 +168,7 @@ def slide_content() -> dict[int, dict[str, object]]:
                 "Reproduce command: python rank.py --candidates ./candidates.jsonl --out ./outputs/submission.csv",
                 "Validation command: python validate_submission.py ./outputs/submission.csv",
                 "Main implementation files: rank.py, src/ranker.py, README.md, docs/approach.md.",
-                "Sandbox/demo link: to be added in submission_metadata.yaml after deployment.",
+                "Sandbox/demo link: https://colab.research.google.com/github/SavioMohan1/redrob-intelligent-candidate-discovery/blob/main/redrob_demo.ipynb",
             ],
         },
         11: {
