@@ -12,3 +12,5 @@ __pycache__/
 Thumbs.db
 
 templates/extracted_media/
+demo/demo_submission.csv
+demo/demo_audit_top100.json

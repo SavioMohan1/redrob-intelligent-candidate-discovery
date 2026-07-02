@@ -38,3 +38,9 @@ dependencies.
 - `outputs/audit_top100.json` - debug/audit view of the top 100.
 - `output/pdf/redrob_intelligent_candidate_discovery_template_filled.pdf` - final template-based deck PDF.
 - `output/pptx/redrob_intelligent_candidate_discovery_template_filled.pptx` - editable template-filled PPTX.
+## Sandbox Demo
+
+Accepted demo link:
+https://colab.research.google.com/github/SavioMohan1/redrob-intelligent-candidate-discovery/blob/main/demo/redrob_ranker_demo_colab.ipynb
+
+The Colab notebook clones this repository, runs the ranker on `demo/sample_candidates_100.jsonl`, validates the generated CSV, previews the top rows, and allows downloading the demo CSV.
