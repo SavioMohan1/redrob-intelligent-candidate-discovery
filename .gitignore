@@ -1,0 +1,13 @@
+# Large competition data. Keep locally; do not push to GitHub.
+candidates.jsonl
+candidates.jsonl.gz
+
+# Local render/debug scratch files.
+tmp/
+__pycache__/
+*.pyc
+
+# OS/editor noise.
+.DS_Store
+Thumbs.db
+
