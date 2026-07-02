@@ -36,3 +36,5 @@ dependencies.
 - `src/ranker.py` - feature extraction, scoring, reasoning, and CSV writing.
 - `outputs/submission.csv` - generated top-100 ranking.
 - `outputs/audit_top100.json` - debug/audit view of the top 100.
+- `output/pdf/redrob_intelligent_candidate_discovery_template_filled.pdf` - final template-based deck PDF.
+- `output/pptx/redrob_intelligent_candidate_discovery_template_filled.pptx` - editable template-filled PPTX.
